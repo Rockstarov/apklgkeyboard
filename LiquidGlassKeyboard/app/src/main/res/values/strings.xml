@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liquid Glass Keyboard</string>
+    <string name="ime_name">Liquid Glass</string>
+
+    <string name="title">Liquid Glass Keyboard</string>
+    <string name="subtitle">Клавиатура в стиле жидкого стекла</string>
+
+    <string name="step1_title">1. Включите клавиатуру</string>
+    <string name="step1_btn">Открыть настройки</string>
+    <string name="step2_title">2. Выберите её для ввода</string>
+    <string name="step2_btn">Выбрать клавиатуру</string>
+    <string name="step3_title">3. Попробуйте</string>
+    <string name="test_hint">Печатайте здесь…</string>
+
+    <string name="status_off">Клавиатура ещё не включена</string>
+    <string name="status_enabled">Включена — осталось выбрать её для ввода</string>
+    <string name="status_active">Готово: клавиатура активна</string>
+</resources>
